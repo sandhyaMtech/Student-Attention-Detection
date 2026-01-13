@@ -88,6 +88,11 @@ The close alignment between validation and test accuracy indicates good generali
 - **Loss vs Epochs**: Training and validation loss decrease consistently  
 
 These curves demonstrate stable convergence and effective transfer learning.  
+### Loss & Accuracy Plot
+
+<p align="center">
+  <img src="outputs/Accuracy_and_Loss_curves.png" width="800"/>
+</p>
 
 
 ---
