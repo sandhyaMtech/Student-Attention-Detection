@@ -91,7 +91,7 @@ These curves demonstrate stable convergence and effective transfer learning.
 ### Loss & Accuracy Plot
 
 <p align="center">
-  <img src="Output/Accuracy_and_Loss_curves.png" width="800"/>
+  <img src="Student-Attention-Detection/Output/Accuracy_and_Loss_curves.png" width="800"/>
 </p>
 
 
